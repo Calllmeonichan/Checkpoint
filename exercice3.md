@@ -2,7 +2,7 @@
  
  2 ____ chmod +rwxr..r.. myfile 
  
- 3 ____ il faut cree un fichier gitignore et ecrire le nom du fichier a ignorer dedans
+ 3 ____ il faut cree un fichier gitignore et ecrire le nom du fichier a ignorer dedans (*.pdf)
 
  4 ____ git merge test_valide ( de la branch main) 
  

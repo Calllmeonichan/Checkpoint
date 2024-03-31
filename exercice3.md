@@ -8,7 +8,7 @@
  
  5 ____ faire un touch "nom du fichier" gedit "nom du fichier" cat "nom du fichier" 
  
- 6 ____ 
+ 6 ____ fg %1
  
  7 ____
 - couche 2: liaison-----> switch pour relier les ordinateur entre eux
